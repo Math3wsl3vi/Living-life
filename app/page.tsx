@@ -18,7 +18,7 @@ const Home = () => {
             <Link href="/about" className="bg-yellow-500 hover:bg-yellow-600 text-blue-900 font-bold py-3 px-8 rounded-md text-lg transition duration-300">
               Join Us This Sunday
             </Link>
-            <Link href="/sermons" className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-blue-900 font-bold py-3 px-8 rounded-md text-lg transition duration-300">
+            <Link href="/Sermons" className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-blue-900 font-bold py-3 px-8 rounded-md text-lg transition duration-300">
               Watch Sermons
             </Link>
           </div>
