@@ -1,8 +1,4 @@
-export const getYouTubeVideoId = (url: string): string | null => {
-  const regex = /[?&]v=([^&#]*)/;
-  const match = url.match(regex);
-  return match ? match[1] : null;
-};import Image from 'next/image';
+import Image from 'next/image';
 import Link from 'next/link';
 const About = () => {
   return <div className="w-full">
