@@ -64,28 +64,28 @@ const Navbar = () => {
             <Link href="/" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Home
             </Link>
-            <Link href="/about" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/About" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               About
             </Link>
-            <Link href="/ministries" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/Ministries" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Ministries
             </Link>
-            <Link href="/sermons" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/Sermons" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Sermons
             </Link>
-            <Link href="/events" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/Activities" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Events
             </Link>
-            <Link href="/donate" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/Donate" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Give
             </Link>
-            <Link href="/prayer" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/Prayer" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Prayer
             </Link>
-            <Link href="/contact" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
+            <Link href="/Contact" className="text-gray-700 hover:text-blue-800 px-3 py-2 rounded-md font-medium" onClick={toggleMenu}>
               Contact
             </Link>
-            <Link href="/membership" className="bg-blue-800 text-white hover:bg-blue-700 px-4 py-2 rounded-md font-medium text-center" onClick={toggleMenu}>
+            <Link href="/Membership" className="bg-blue-800 text-white hover:bg-blue-700 px-4 py-2 rounded-md font-medium text-center" onClick={toggleMenu}>
               Join Us
             </Link>
           </div>
